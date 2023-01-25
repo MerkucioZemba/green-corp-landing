@@ -423,24 +423,6 @@ button:hover {
 		width: 75px;
 		height: 75px;
 	}
-
-	.cards {
-		grid-template-columns: auto;
-	}
-
-	.features__feedback-left h2 {
-		font-size: 36;
-	}
-
-	.features__savings-box h3{
-		margin-bottom: 20px;
-		font-size: 36px;
-	}
-	
-	.features__rate-box h3{
-		margin-bottom: 20px;
-		font-size: 36px;
-	}
  }
 
 /* Мобильные устройства */
@@ -515,14 +497,14 @@ button:hover {
 		flex-direction: column-reverse;
 	}
 
-.promo__image{
+	.promo__image{
 	height: 500px;
 	width: 100%;
-}
+	}
 
-.promo__right{
+	.promo__right{
 	padding: 50px 10px;
-}
+	}
 
 
 	.form {
@@ -532,13 +514,6 @@ button:hover {
 	.form h1 {
 		font-size: 36px;
 	}
-
-	.features {
-		padding-top: 50px;
-		padding-bottom: 50px;
-		padding-left: 10px;
-		padding-right: 10px;
-	  }
   
 	footer {
 		padding: 50px 10px;
