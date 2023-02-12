@@ -18,6 +18,13 @@ header {
 	height: 30px;
   }
 
+  .orb-canvas {
+	position: absolute;
+	top: 0;
+	right: 0;
+    height: 100%;
+  }
+
   .about__image {
 	width: 500px;
   }
@@ -61,6 +68,7 @@ header {
 	justify-content: space-around;
 	padding-bottom: 115px;
 	padding-top: 115px;
+	position: relative;
   }
 
   .about h1 {
